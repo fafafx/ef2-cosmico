@@ -408,8 +408,9 @@ legend {
 }
 
 .botones {
-    font-size: 15px;
-    width: 140px;
+    
+    font-size: 1.2rem;
+    width: auto;
     height: 50px;
     border-width: 1px;
     color: #ffffff;
@@ -425,6 +426,7 @@ legend {
     padding: 10px;
     margin: 10px 0;
 }
+.botones:hover{background: #9e759c;}
 
 .mobileMenu {
     display: none;
